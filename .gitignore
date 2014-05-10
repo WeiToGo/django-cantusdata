@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+*.tif
+*.tiff
+.DS_Store
