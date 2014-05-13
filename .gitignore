@@ -1,0 +1,8 @@
+*.pyc
+*.swp
+*.tif
+*.tiff
+*.sqlite3
+cantus_env
+logs
+.DS_Store
