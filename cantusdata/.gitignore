@@ -1,7 +1,0 @@
-*.pyc
-*.swp
-*.tif
-*.tiff
-*.sqlite3
-cantus_env
-.DS_Store
